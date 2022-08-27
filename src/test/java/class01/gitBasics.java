@@ -6,5 +6,10 @@ public class gitBasics {
         //prints out that is a beautiful day or not
 
         System.out.println("today is a beautiful day");
+        System.out.println("today is a beautiful day");
+        System.out.println("today is a beautiful day");
+        System.out.println("today is a beautiful day");
+        System.out.println("today is a beautiful day");
+        System.out.println("today is a beautiful day");
     }
 }
